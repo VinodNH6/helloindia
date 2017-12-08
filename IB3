@@ -1,0 +1,252 @@
+===================
+Leverage and Margin
+===================
+
+Leverage --> Its a investement strategy of using borrowed money. 
+
+Using financial instruments/borrowed capital to increase the potential return of an investement.
+
+- Leverage is amount of "Debt" used to finance assets. ***********
+
+NOTE: when one says company/property/an investement is "highly leveraged", it means that item has more "debt" than "equity".
+
+
+
+Difference between Leverage and Margin??
+========================================
+
+Leverage - Act of taking on debt.
+
+Margin   - Form of debt or borrowed money.. which is used to invest in other financial instruments.
+
+NOTE: Margin is also a debt.. But which can be used to invest.
+
+ex. Margin account allows you to borrow money from a broker for a fixed interest rate to purchase securities/options/future contracts to get high returns.
+
+
+
+NOTE: You can use margin to create leverage.
+
+Using debt/borrowed money to get high return.
+
+
+
+What is Financial Leverage
+==========================
+
+Leverage --> Borrowing money.
+
+Financial Leverage ---> Investing borrowed money.   //In Investement world.
+                        
+
+NOTE: Risking more money than you have. //In real world.
+
+
+More on this
+------------
+
+# Take a loan and invest. You just have to pay interest on that amount..
+
+What if shares are doing good after borrowed money is invested. ?
+
+- Now to return borrowed money, you may have take some amount from profits you earned and then pay exact amount of borrowed money.
+
+
+What if shares are NOT doing great?
+
+- Now you have return borrowed money from your pocket + extra INTEREST RATE on borrowed money.
+
+
+
+#1. Real world Example
+----------------------
+
+1. UnLeveraged = Use 100% equity //You don't use borrowed money.
+
+- Initial investment $1000.
+
+- Gain $100
+
+- Final balance $1100.
+
+- Return: $1100/$1000 = 10%.
+
+
+
+2. Leveraged = Use 50% equity and 50% debt. 
+
+- Initial investment $1000(50% equity and 50% debt).
+
+- Gain $100           //GAIN
+
+- Final balance $1100.
+
+- Return after paying debt: [ ($1100-$500)/($1000-$500)-1 ] *  100 = 20%.
+
+
+
+What if we loose?
+
+- Initial investment $1000(50% equity and 50% debt).
+
+- Gain -$100           //LOSE
+
+- Final balance $900.
+
+- Return after paying debt: [ ($900-$500)/($1000-$500)-1 ] *  100 = -20%.
+
+
+Summary
+-------
+You could also simply the calculating by doing;
+
+100/1.000 = 10%
+
+100/500 = 20%
+
+-100/500= -20%
+
+As you can see, using leverage maximizes the outcome, either positive or negative.
+
+
+
+#2. Real world Example
+----------------------
+
+Flat price: $500,000
+Rent:       $2500
+
+
+1. $500,000 purchase flat on your own money(Equity/Savings). 
+
+   $2500 * 12months / $500,000 = 6%.  //Annual Rate of return on your equity.
+
+
+2. $100,000 (your money) + $400,000 (Bank Home loan)
+  
+   $2500 * 12months / $100,000 = 30%. //Annual rate of return on your equity.
+
+
+NOTE: you are paying interest on loan regularly..
+NOTE: By using debt to finance your flat acquisition, you have increased the rate of return on your equity by 5x.
+
+
+Downside ===>> What if after 5years. You have to return borrowed money.
+               But flat rate is decreased to $300,000. and interest rate.
+
+3. You pay flat for $300,000 and return money to bank. But still you have to pay $100,000. 
+   $400,000 - $300,000 = $100,000 left.
+
+Now the bank will sue you for the $100,000 if you can’t pay it.
+
+
+
+4. If no leverage ===>>
+
+You wouldn't care if real estate market goes up or down. 
+Its irrelevant to you as long as rent cheques still keep coming to you.
+
+
+
+=======
+Margin   - [Buying on Margin]
+=======
+
+Leverage allows you to control a large financial position with only a small down payment(known as the MARGIN).
+
+- Margin is expressed in % unit.
+
+- Here pay some amount on your own and take rest from BROKER.
+
+
+Ex. Flat worth $10,000, buy on margin?? The margin by broker is 20%. 
+    
+then Buyer should only invest margin amount i.e $2000. i.e 20% of Flat worth.
+
+and Remaining amount from BROKER as loan. //Keeping anything as colleteral on the loan's balance.
+
+Buyer just pays interest on loan... Thats it.
+
+
+
+Real world example - [Margin Trading]
+------------------
+
+- Margin trading is buying stocks without having the entire money to do it.
+
+
+***** With 20,000 in your hand(capital), You can buy securities worth 1,00,000.
+
+
+What securities you can trade on margin?
+
+- It may be stocks/futures/commodities/currency.
+
+
+Problem: Sudhir has 20,000. But he feels this money is not enough/adequate for trading. 
+
+Solution: Trade on MARGIN.
+
+How it works: 
+
+If he trades on margin, with 20,000 in hand, he can trade for upto 2,00,000 rupees.
+
+//20,000 he puts. 80,000 by broker as loan.
+
+
+#Now he earns 4000 on trade. 
+
+ie. 2,00,000 * 2 / 100 = 4000 rupees //profit 2%.
+
+
+NOTE: With Margin trading.. He earned 20% of invested money...
+      //Which he would not have got if he had not used Margin Trading...
+
+
+
+#### Cash Market #### --> Here BROKERs provide MARGIN and charge interest on buyer.
+
+#### Futures Market #### --> Here BROKERs provide MARGIN and charge NO Interest.
+
+NOTE: Every broker has different margin policies.
+
+
+
+Example-2 - [Futures contract]
+--------- 
+
+if you were to buy 2000 shares of say Company A, which trades at Rs 300, you will need about Rs 6 lakh.  But if you buy a "future contract" of that company, which comprises 2000 shares, you only need to pay a margin of 15 percent. So by putting Rs 90,000, you can get an exposure of Rs 6 lakh.
+
+
+
+Example-3 - [Margin trading]
+---------
+The same operation can also be executed through margin trading. Here, the trader will buy 2,000 shares, which are partly funded by the broker, and the rest by the trader/buyer.
+
+
+What BROKER earns by Margin Trading or by giving him loan????
+-------------------------------------------------------------
+
+The broker, in turn, funds his line of credit from a bank, and keeps the shares in his account with any profit/loss going to the client.
+
+NOTE: he earns from he loaned amount by trading using his loan money... All profits/losses on this loan money goes to him..
+
+
+What if he gets losses on his loan money???
+-------------------------------------------
+
+- Broker makes MARGIN CALL to buyer.
+
+
+What is Margin Call?
+--------------------
+
+- asking the client to deposit additional margin.
+
+
+What is buyer can't deposit additional margin money? //usually he can make easily. but in worst case.
+----------------------------------------------------
+
+When clients are not able to meet the margin requirement, the broker sells the security so that he does not have to bear the risk in case the stock falls further.
+
+
