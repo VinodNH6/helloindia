@@ -1,0 +1,258 @@
+Curriculum Vitae
+
+Vinod Ningappa Hulloli
+Qualification : M.Tech (Computer & Science Engg.) 
+Cell No. : +91-9164104155 / 7975099201 & Mail ID : hullolivinod88@gmail.com
+
+Address : 4th cross, 5th main, D Block, AECS Layout, Kundalahalli, Maratahalli, Bangalore
+
+Job Objective:
+To work in a competitive and multidisciplinary but collaborative environment where I could unite my motives with the organizational goals so, that both would be mutually benefited.
+
+Professional Summary:
+•	Total 7 Years of experience in Design and Development of Web applications and Hybrid Mobile applications.
+•	Over 3.5 years of work experience in Middleware domain and extensively worked on creating stack tools for IBM WebSphere Application Server and Liberty server. 
+•	Over 1 years of work experience in Test Infrastructure domain and 6 months of experience in Health Domain.
+•	Over 1.5 years of work experience in E-Commerce domain.
+•	Over 6months of work experience in Network Communications domain.
+•	Over 4months of work experience in Finance/Prime brokerage domain.
+•	Skilled in design and development of Web Applications (AngularJS-2/AngularJS/ReactJS-Redux and Jquery based).
+•	Skilled in design and development of Hybrid mobile applications (Ionic, Jquery Mobile and Cordova based).
+•	Extensively worked on Web technologies like AngularJS-2, AngularJS, ReactJS, Redux, Ionic-2, Ionic, RxJS, ExpressJS, NodeJS, Jquery, Html5, Css3, Ajax.
+•	Good knowledge in cross browser concepts, caching techniques and optimizing client side performance.
+•	Good knowledge of advanced CSS like SASS
+•	Good knowledge in Advanced JavaScript (OOJS) for server side development using ES6 and TypeScript.
+•	Good knowledge in client side unit testing frameworks like Jest and Enzyme (Component Testing), Protractor, Jasmine and Headless browsers like PhantomJS.
+•	Strong knowledge in Signing, Provisioning and Distribution of Android and IOS for testing and release.
+•	Skilled in design and development of RESTful web applications using NodeJS/ExpressJS.
+•	Currently exploring MEAN and MERN Stack for web application development.
+•	Excellent team player with good communication, presentation, leadership, quick learning and problem solving skills.
+•	Strong analytical knowledge with excellent problem solving and decision making skills.
+•	Good Knowledge on Linux Operating and commands.
+•	Innovative in providing alternate design or solution for any task.
+
+Educational Details:
+•	M.Tech (CS) from M.S. Ramaiah Institute of Technology, Bangalore, Karnataka in 2012. Se-cured 87.50% 
+
+•	B.E (CS) from Hirasugar Institute of Technology, Belgaum, Karnataka in 2010. Secured 61.26%
+
+•	PUC from KLE Society's R. L. Science Institute, Belgaum, Karnataka in 2006. Secured 68.66%
+
+•	SSLC from G. A High School, Belgaum, Karnataka in 2004. Secured 85.60%		
+
+
+Work History:
+
+Sl	Organization 	 	Duration 		Designation
+---      ---------------		 	----------	          	--------------
+1	IBM India Software Labs 	2011-2017             	Senior Software Engineer
+
+2 	Sapient Nitro		 	3/2017-11/2017	Senior Interactive Developer
+
+3	JP Morgan Chase		11/2017-Present	Senior Software Engineer
+
+
+Technical Skills:
+
+Web Technologies 	AngularJS-2, ReactJS, Redux, RxJS, AngularJS, Functional Programming, Type-Script, ES6, AJAX, HTML5, CSS3, JQuery, BootStrap 3, Json, Web Services (REST), Advanced JavaScript(OOJS), Responsive UI, Web Storage and Caching concepts, NodeJS/ExpressJS, MongoDB(basics), Couchbase, GraphQL Basics, JWT, WebSecu-rity.
+Package Manager - Node package manager(npm) 
+Build – GulpJS, Webpack
+Hybrid Mobile Apps – Cordova, Ionic, Ionic-2 Framework
+Extended CSS frameworks – SASS
+Testing Frameworks – Jest, Enzyme, Jasmine, Karma, Mocha, Chai
+Cloud Tools – Docker, AWS 
+CI-CD Tools - Jenkins
+Complementary Skills 	Core Java, JAX-RS, JSP, Servlets, JDBC, Android, GraphQL
+Application/Web Servers 	Apache Tomcat (5.5 +), NodeJS server, IBM WebSphere Application Server
+DataBases	MySQL 5.0, MongoDB
+IDEs 	Sublime, Atom, Eclipse, Visual Studio
+Static Code Analyzers	JSHint, CSSLint, Plato Reporter, JS Minifiers, CSS Minifiers, HTML and JSON Valida-tors
+JS Modules Systems	SystemJS, RequireJS, WebPack, CommonJS, AMD and Browsify.
+Agility and Process	JIRA, GitHub and SVN
+Operating Systems 	Microsoft Windows, Red Hat Linux
+Client Interact Tools 	Putty, FileZilla
+Others	Mainly focusing on MEAN/MERN Stack to design and develop a Web and Hybrid Mobile Applications.
+
+Project Profiles:
+
+1.
+Project Name : Collateral Eligibility Services – Web Application
+Project Type : This project is being used internally to find eligibility of collateral providers
+Role : Designer and Lead Developer
+Duration : 3months
+Technologies Used : AngularJS-2, TypeScript, Html5, Css3, Ajax, TS compiler, SystemJS, Bootstrap 3, NodeJS, Ex-pressJS, JS/CSS/HTML minifiers, GulpJS(Build Task), SASS, JSLint, PhantomJS, Jest, Enzyme(Component Unit Testing), Private AWS cloud, Cassandra, Java Springs(RestAPI)
+Description :  This application finds acts like engine to find eligibility of the collateral provider. If any customer/client wants to borrow money from our firm, then he may have to lend his securities as his collateral. TO find if he is eligible for financial help we run his securities through CES app and decide whether to give him financial help or not.
+
+Rules for collateral eligibility are already defined in CES app. Once clients comes we just check his eligibility to get loan after we process his securities as collateral.
+
+This project is being developed as a Web Application using Angular-2, TypScript, RxJS, GulpJS, Npm, NodeJS.  It is de-signed in such a way that a single command could compile entire JS Code, do Static code analysis (JSHint, CSSLint with reports), Combine module specific JS and CSS files into a single minified JS and CSS file, finally generates ready to de-ploy builds for any given environment (DEV and Production). Also it runs a Jest and Enzyme driven unit test cases on the code with all final reports and screenshots of failed test cases. This framework is made to be used by a developer, tester and release teams with individual mode of usage.
+
+This project has both RestAPI and Client deployed on JPMC’s Private AWS clound separately. Client(UI) is running as a NodeJS application and RestAPI(Java Springs) server is running as a Java application. UI Client is connecting to RestAPIs using Client secret IDs shared by server.
+
+2.
+Project Name : OneView- Rogers Communications – Web Application
+Project Type : Broad Band Internet Service Provider application to maintain users across Canada
+Role : Designer and Lead Developer
+Duration : 6months
+Technologies Used : AngularJS-2, TypeScript, Html5, Css3, Ajax, TS compiler, SystemJS, Bootstrap 3, NodeJS, Ex-pressJS, JS/CSS/HTML minifiers, GulpJS(Build Task), SASS, JSLint, PhantomJS, Couch Base, Java(RestAPI), Jest, En-zyme(Component Unit Testing), AWS
+Description :  This application maintains details of every user who subscribe to Broadband, Internet, TV and Home monitoring plans. One can view bills generated every month and pay online through multiple modes of payment.
+It tracks,
+-	Wireplans 
+-	Devices registered which using Rogers plans
+-	TV
+-	Internet
+-	Home Monitoring plans.
+  
+Every user who subscribes can login into this application and go through usage of each plans and act accordingly.
+This application has 2 logins. One is for Customer and Another is for Administration. 
+-	Customer can see his usage every month and subscribe to add-on plans anytime and do payment.
+-	Admin can see users plans when enquired about it and assist customer to queries.
+
+This project is being developed as a Web Application using Angular-2, TypScript, RxJS, GulpJS, Npm, NodeJS.  It is de-signed in such a way that a single command could compile entire JS Code, do Static code analysis (JSHint, CSSLint with reports), Combine module specific JS and CSS files into a single minified JS and CSS file, finally generates ready to de-ploy builds for any given environment (DEV and Production). Also it runs a Jest and Enzyme driven unit test cases on the code with all final reports and screenshots of failed test cases. This framework is made to be used by a developer, tester and release teams with individual mode of usage.
+
+This project has both RestAPI and Client deployed on AWS separately. Client(UI) is running as a NodeJS application and RestAPI server is running as a Java application. UI Client is connecting to RestAPIs using Client secret IDs shared by server.
+
+3.
+Project Name : Tesco(Europe) - Safe and Legal CheckList – Web Application
+Project Type : This application is being used by all Tesco stores across Europe 
+Role : Designer and Lead Developer
+Duration : 5months
+Technologies Used : ReactJS, Redux, Html5, Css3, Ajax, Babel compiler, WebPack(Bundler), Bootstrap 3, NodeJS, ExpressJS, JS/CSS/HTML minifiers, GulpJS(Build Task), SASS, JSLint, PhantomJS, Couch Base, Java(RestAPI), Jest, En-zyme(Component Unit Testing), AWS
+Description :  This project is to maintain a daily checklist at stores across UK. Every physical store of Tesco across UK should be compliant with the checklist given. If they fail to meet customer can sue them for causing damage to them. So to avoid this, every store should be compliant.
+
+  Every individual/team manager/Lead Manager/compliance manager has to verify the checks list by taking appropriate actions like marking them checked(if everything is correct) or adding next step actions to be completed by other teams. Once all checks are verified then store is compliant else its non-compliant. In case if any customer sue tesco for not be-ing compliant then it can produce this application’s data to the court to show the checklist maintained during that period.
+
+ It will show progress made on checklist. Team/Store manager can review and signoff it once checks are verified. 
+
+This project is being developed as a Web Application using ReactJS-Redux, RxJS, Webpack, Npm, NodeJS, Gulp.  It is de-signed in such a way that a single command could compile entire JS Code, do Static code analysis (JSHint, CSSLint with reports), Combine module specific JS and CSS files into a single minified JS and CSS file, finally generates ready to deploy builds for any given environment (DEV and Production). Also it runs a Jest and Enzyme driven unit test cases on the code with all final reports and screenshots of failed test cases. This framework is made to be used by a developer, tester and release teams with individual mode of usage.
+
+This project has both RestAPI and Client deployed on AWS separately. Client(UI) is running as a NodeJS application and RestAPI server is running as a Java application. UI Client is connecting to RestAPIs using Client secret IDs shared by server.
+
+4.
+Project Name : Tesco(United Kingdom) - Safe and Legal Audit – Hybrid Mobile Application(IOS & Android)
+Project Type : This application is being used by Tesco stores across Europe
+Role : Designer and Lead Developer
+Duration : 5months
+Technologies Used : AngularJS-2, Ionic-2, Cordova Plugins, TypeScript, TS compiler, RxJS, SystemJS Bundler, Html5, Css3, Ajax, Bootstrap 3, NodeJS, ExpressJS, JS/CSS/HTML minifiers, GulpJS, Jest, Enzyme(Component Unit Testing), SASS, JSLint, grapql, java.
+Description :  This project is as same as above with extra checklist for Auditors. Here auditors will have to query for checklist for specific period which consists of 5 weeks and then audit.  
+
+This project is being developed as a Hybrid Application using Cordova, Ionic-2 and AngularJS-2 Framework.
+      This project is created using Angular-2 boiler plates which runs on Npm, GulpJS task runner. It is designed in such a way that a single command could compile entire JS Code, do Static code analysis (JSHint, CSSLint with reports), Combine module specific JS and CSS files into a single minified JS and CSS file, finally generates ready to deploy builds(apk, ios and www folder for web) for any given environment (DEV and Production). Also it runs a Jest and Enzyme driven unit test cases on the code with all final reports and screenshots of failed test cases. This framework is made to be used by a developer, tester and release teams with individual mode of usage.
+
+
+5.
+Project Name : Tesco(Europe) – Online Retail Store
+Project Type : Online Shopping Website – https://www.tesco.com/
+Role : Designer and Lead Developer
+Duration : 2months
+Technologies Used : ReactJS, Redux, Html5, Css3, Ajax, Babel compiler, WebPack(Bundler), Bootstrap 3, NodeJS, ExpressJS, JS/CSS/HTML minifiers, GulpJS(Build Task), SASS, JSLint, PhantomJS, Couch Base, Java(RestAPI), Jest, En-zyme(Component Unit Testing), AWS
+Description :  This is online store of Tesco across world. It allows one to add any item to cart, checkout and then pay-ment. We uses ReactJS to create component based application and redux to handle cart/checkout.
+
+
+
+6.
+Project Name : IBM Test Data Management(TDM)
+Project Type : Internal web application to manage test data for real users.
+Role : Designer and Lead Developer
+Duration : 6months
+Technologies Used : AngularJS-2, TypeScript, TypeScript compiler, SystemJS Bundler, Bootstrap, NodeJS, ExpressJS, Mongoose(MongoDB), Ionic-2, Cordova Plugins, Html5, Css3, Ajax,  JS/CSS/HTML minifiers, GulpJS, Jasmine, PhantomJS, SASS, JSHint
+Description :  This project is to maintain users with any role to maintain Test data which can be used by OTFA kind of tools to feed test data and run testcases and generate test case report after execution on webApps and Mobile apps. This project is being developed for web as well as a Hybrid Application using Cordova and Ionic Framework.
+      This project is created using Angular-2 boiler plates which runs on Npm, GulpJS task runner. It is designed in such a way that a single command could compile entire JS Code, do Static code analysis (JSHint, CSSLint with reports), Combine module specific JS and CSS files into a single minified JS and CSS file, finally generates ready to deploy builds(apk and www folder for web) for any given environment (Dummy, DEV and Production). Also it runs a jasmine and
+protractor driven unit test cases on the code with all final reports and screenshots of failed test cases. This framework is made to be used by a developer, tester and release teams with individual mode of usage.
+
+7. 
+
+Project Name : IBM OTFA
+Project Type : Internal web application to automate testing for various Web Applications and Mobile devices using data provided by TDM application.
+Role : Designer and Lead Developer
+Duration : 7months
+Technologies Used : ReactJS, EcmaScript-6, Babel(EcmaScript 6 code compiler), WebPack bundler, Bootstrap, NodeJS, ExpressJS, Mongoose(MongoDB), Gulp, Jasmine, Ionic, Cordova, JS/CSS/HTML minifiers, GulpJS, Jasmine, PhantomJS, SASS, JSHint, Html5, Css3, Ajax
+Description :  This project is automate test for all Web Applications and Mobile devices. This takes feature file(Cucumber BDD driven) and submit test request to the server via Ajax call and get test report of JSON in response. We take the result and display it in UI.  In UI we maintain test automation for both webApps and Mobile devices. For build we use Gulp and Jasmine to write test cases for AngularJS code.
+  This project is being developed for Web as well as a Hybrid Application using Cordova and Ionic Framework.
+
+
+8.
+
+Project Name : Online Shopping WebSite – E-Commerce application.
+Project Type : Online shopping website for various products.
+Role : Lead and MEAN Stack Developer(Initiative)
+Duration : 6months
+Technologies Used : AngularJS, Bootstrap, ExpressJS, PassportJS, NodeJS, MongoDB, WebSockets, EcmaScript 5, Html5, Css3, Ajax
+Build : GulpJS
+Test : Jasmine, Mocha, Chai
+Description :  I was involved in IBM’s internal E-Commerce online shopping site where internal users can purchase products available in this site like any normal online shopping having functionalities like selecting/adding product to cart, add/remove items from cart, checkout and payment panel.
+    Now currently working on hybrid mobile application to make it compliant with all mobile devices using Cordova and Ionic.
+
+
+9. 
+
+Project Name : WASMON - WebSphere Application Server Monitoring.
+Project Type : Development
+Role : Designer and Lead developer(Initiative)
+Duration : 12 months
+Technologies Used : Java Management Extensions (JMX) Technology, Java, Servlets, Html5, Css3, Ajax, Boot-strap(Responsive Design), Jquery, AngularJS, Excel VBA(Visual Basic for Applications), d3JS
+Description :
+WASMON (WebSphere Application Server Monitoring) is designed to collect the performance data from running WebSphere Application Server (WAS). It collects data from runtime resources (JVM Module, Thread Pool Module, Sys-tem Module etc) and application resources (e.g. Servlet Session Module, Web Container Module, EJB Container Module) WASMON collects PMI data and put it in CSV file. Collected data will be processed using analyzer and produce graphs for each monitor which is mentioned in Monitors file.
+
+
+10.
+
+Project Name : WebSphere Application Server PMI Component.
+Project Type : Development 
+Role : Module Lead and UI Developer
+Duration : 12 months
+Technologies Used :  AngularJS, Jquery, BootStrap, d3JS, Html, Css, Ajax,  Java, Servlet and Jsp
+Description :
+PMI stands for Performance Management Infrastructure, which basically deals with Performance of different compo-nents involved in WebSphere Application Server.
+
+Worked on developing Monitoring tools for Websphere Application Server Liberty Profile Where we get the data from liberty monitoring and display in better UI.
+
+When anybody registers a new component to the PMI we get this data by making Ajax long polling.
+we make Http request every some interval to get the recent data and update the view. 
+
+
+11.
+
+Project Name : Request Metrics Viewer
+Project Type : Development
+Role : UI Developer
+Duration : 12 months
+Technologies Used : JQuery, Bootstrap, Responsive Web Design,  Html5, Css3, Ajax,  NodeJS, ExpressJS
+Description :
+Request Metrics component of WAS allows you to monitor transactions as they move through the different components in an Application Server environment. Request metrics allows you to not only see the amount of time spent executing the whole request, but also the time spent executing the request in each of the supported Application server components like WebServer, WebContainer, EJBContainer, JDBC and JMS.
+Request Metrics Viewer is the tool which gathers all the Transaction data from Request Metrics component via JMX and shows the amount of time spent in each component in graphical way. 
+My Role was to develop front end for these tools which takes server details from the server and display all server related things in better UI.
+
+
+12.
+
+Project Name : Infant Care.
+Project Type : Healthcare Web Application - M.Tech mini Project.
+Role : Developer
+Duration : 6 months
+Technologies Used : Jquery, Html, Css, Ajax,  MySql, Java, Servlets and JSP
+Description :
+The Major prospect of this project is to make web enabled application that provides complete package about all the information regarding baby’s clinical record and steps to be considered to see the baby’s health conditions. The purpose of this application was to ensure healthy growth with good clinical assistance for kids from their birth to some age limit. Also it acts as a reminder for the parents/maidens and an expert system for the client hospital.
+
+
+Achievements:
+•	Presented Demo of WASMON tool to all IBM WAS customers. 
+•	Handled customers in critical issues.
+
+Personal Details:
+Name : Vinod Ningappa Hulloli
+Gender : Male
+Nationality : Indian
+Mobile Number : +91-9164104155
+Date of Birth : 06-08-1988
+Permanent Address : H.No 2471, Parvati Nagar, Kangrali B.K, Belgaum (Karnataka)
+Marital Status : Unmarried
+Languages : English, Kannada, Hindi, Marathi
+Interests : Movies, Music, Travelling, Arts and Reading Novels. 
+Internet ID : hullolivinod88@gmail.com
+
+Declaration:
+I do hereby declare that all the information furnished above is true to the best of my knowledge and belief.
+
+Place: Bangalore 												Vinod Hulloli
+
